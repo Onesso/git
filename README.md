@@ -1,3 +1,3 @@
 # Important instruction
 
-the code is for learning git & github
+the code is for learning git & github.
